@@ -45,6 +45,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\Test.cs" />
     <Compile Include="Classes\FileLogger.cs" />
     <Compile Include="Classes\LogDelegate.cs" />
     <Compile Include="DeletgateForm.cs">
